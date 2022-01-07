@@ -1,6 +1,6 @@
 # Hello
 ## My name is Alexey
-## I am a Junior Frontend developer 
+## I am a Frontend developer 
 
 - Studying JS
 - I will be glad to get some good advice
