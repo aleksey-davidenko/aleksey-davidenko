@@ -6,6 +6,9 @@
 - Буду рад дельному совету
 - Закончил дипломный проект [тык](README.md)
 
+### GitHub Stats Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey-davidenko&show_icons=true&theme=radical)
+
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="50px" src="./src/icons8-html-5-48.png" />
