@@ -1,10 +1,10 @@
-# Привет
-## Меня зовут Алексей
-## Я Junior Frontend разработчик 
+# Hello
+## My name is Alexey
+## I am a Junior Frontend developer 
 
-- Изучаю JS
-- Буду рад дельному совету
-- Закончил дипломный проект [тык](README.md)
+- Studying JS
+- I will be glad to get some good advice
+- Completed the graduation project [tyk] (README.md )
 
 ### GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey-davidenko&show_icons=true&theme=radical)
