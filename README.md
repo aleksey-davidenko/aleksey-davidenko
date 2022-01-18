@@ -4,7 +4,7 @@
 
 - Studying JS
 - I will be glad to get some good advice
-- Completed the graduation project [tyk] (README.md )
+
 
 ### GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey-davidenko&show_icons=true&theme=radical)
